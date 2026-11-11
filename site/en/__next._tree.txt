@@ -1,4 +1,4 @@
 :HL["/societe-sfaxienne-tournage/_next/static/css/d493eb83e2cdaab2.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"en","s":["_not-found","_global-error","robots.txt","sitemap.xml"]},"h":65648,"c":"$Q2"}]]
-0:{"b":"pxqGxgmmOQqfhozOJmzjA","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"g71KKJgf3k-n3mdYb7rXP","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
