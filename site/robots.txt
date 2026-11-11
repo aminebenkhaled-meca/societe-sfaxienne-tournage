@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /
+
+Sitemap: https://aminebenkhaled-meca.github.io/societe-sfaxienne-tournage/sitemap.xml

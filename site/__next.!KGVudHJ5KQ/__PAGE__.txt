@@ -1,0 +1,28 @@
+1:"$Sreact.fragment"
+2:I[7121,[],""]
+3:I[4581,[],""]
+a:"static/chunks/437-3f6da199046567f2.js"
+b:"static/chunks/app/(entry)/page-57129faa5482a61f.js"
+c:I[8437,["437","$a","534","$b"],"Image"]
+d:I[484,[],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:"ViewportBoundary"
+12:I[484,[],"$11"]
+13:"MetadataBoundary"
+14:I[484,[],"$13"]
+:HL["/societe-sfaxienne-tournage/_next/static/css/d493eb83e2cdaab2.css","style"]
+5:X
+5:C
+6:X
+9:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"className":"language-gateway","children":[["$","$Lc",null,{"src":"/societe-sfaxienne-tournage/images/logo.webp","alt":"Logo SST","width":100,"height":106,"priority":true}],["$","p",null,{"className":"eyebrow","children":"SFAX · TUNISIE"}],["$","h1",null,{"children":"Société Sfaxienne de Tournage"}],["$","p",null,{"children":"Mécanique maritime & usinage sur mesure"}],["$","nav",null,{"aria-label":"Choisir la langue","children":[["$","a",null,{"className":"button button-white","href":"/societe-sfaxienne-tournage/fr/","lang":"fr","children":"Français →"}],["$","a",null,{"className":"button button-white","href":"/societe-sfaxienne-tournage/ar/","lang":"ar","dir":"rtl","children":"العربية ←"}],["$","a",null,{"className":"button button-white","href":"/societe-sfaxienne-tournage/en/","lang":"en","children":"English →"}]]}]]}],null,["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":"$@10","v":null,"s":"$6"}}]]
+7:[["children",{"s":"(entry)","h":112,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/societe-sfaxienne-tournage/_next/static/css/d493eb83e2cdaab2.css","precedence":"next"}]],["$","html",null,{"lang":"fr","className":"__variable_72faf1 __variable_a02315","children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:t:t:d:r:props:children:1:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:t:t:d:r:props:children:1:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:t:t:d:r:props:children:1:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:t:t:d:r:props:children:1:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}],"p":"$@8","v":null,"s":"$6"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]]}],"p":"$@4","v":"$5","s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Société Sfaxienne de Tournage"}],["$","meta","1",{"name":"description","content":"Mécanique maritime et usinage à Sfax. Français · العربية · English."}],["$","meta","2",{"name":"robots","content":"noindex, follow"}]]}]}],null]}],null]}],"p":"$@15","v":null,"s":"$6"}},"a":"$@16","u":"$@17","b":"pxqGxgmmOQqfhozOJmzjA"}
+f:null
+6:300
+17:true
+6:C
+16:0
+8:"$undefined"
+4:"$undefined"
+15:"$undefined"
+10:"$undefined"
